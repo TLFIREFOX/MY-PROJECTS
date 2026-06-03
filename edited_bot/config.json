@@ -1,0 +1,155 @@
+{
+  "token": "xyz",
+  "welcomeChannelId": "1501905284162125927",
+  "membershipImages": {
+    "gang": "https://i.postimg.cc/mrVCxdmn/Modern-black-premium-membership-promotion-instagram-post-portrait-1.png",
+    "bronze": "https://i.postimg.cc/25ThpHHp/Modern-black-premium-membership-promotion-instagram-post-portrait-2.png",
+    "silver": "https://i.postimg.cc/nLnBP8G2/Modern-black-premium-membership-promotion-instagram-post-portrait-3.png",
+    "gold": "https://i.postimg.cc/pdkzN0s7/Modern-black-premium-membership-promotion-instagram-post-portrait-4.png",
+    "platinum": "https://i.postimg.cc/9f1Z3xxh/Modern-black-premium-membership-promotion-instagram-post-portrait-5.png",
+    "diamond": "https://i.postimg.cc/G22YbkNh/Modern-black-premium-membership-promotion-instagram-post-portrait-6.png",
+    "supporter": "https://i.postimg.cc/500vfwG2/Modern-black-premium-membership-promotion-instagram-post-portrait-7.png",
+    "contributor": "https://i.postimg.cc/HL3XGSSM/Modern-black-premium-membership-promotion-instagram-post-portrait-8.png"
+  },
+  "approvedImage": "https://i.postimg.cc/1XpkXQxd/allowlist-banne1.png",
+  "rejectedImage": "https://i.postimg.cc/xTfxMHLn/allowlist-banner2.png",
+  "forms": {
+    "staff": {
+      "label": "Staff Application",
+      "applicantRoleId": "1501905052439412898",
+      "acceptedRoleId": "1501904953999101952",
+      "reviewerRoleId": "1501904935313346630",
+      "reviewChannelId": "1501905421215072367",
+      "questions": [
+        "What is your in-city name?",
+        "What is your Discord username and ID?",
+        "How old are you OOC?",
+        "What timezone are you in?",
+        "How long have you been roleplaying?",
+        "Do you have prior staff experience?",
+        "Why do you want to become staff?",
+        "How would you handle a rule-breaking player?",
+        "How active can you be weekly?",
+        "Why should we choose you for staff?"
+      ],
+      "resultChannelId": "1501905337496899604"
+    },
+    "pd": {
+      "label": "PD Application",
+      "applicantRoleId": "1501905023943315498",
+      "acceptedRoleId": "1501905005421265017",
+      "reviewerRoleId": "1501904996072034374",
+      "reviewChannelId": "1501905416131444780",
+      "questions": [
+        "What is your in-city name?",
+        "What is your character backstory?",
+        "Do you have prior Police RP experience?",
+        "How long have you been doing GTA RP?",
+        "Why does your character want to join PD?",
+        "How would you handle an uncooperative suspect?",
+        "What does Fail RP mean to you?",
+        "Can you stay calm during serious situations?",
+        "How active can you be weekly?",
+        "Why should we accept your application?"
+      ],
+      "resultChannelId": "1501905340160020680"
+    },
+    "doj": {
+      "label": "DOJ Application",
+      "applicantRoleId": "1501905041437626452",
+      "acceptedRoleId": "1501905006574436492",
+      "reviewerRoleId": "1501904997070409819",
+      "reviewChannelId": "1501905417180287027",
+      "questions": [
+        "What is your in-city name?",
+        "What is your character backstory?",
+        "Do you have prior DOJ/legal RP experience?",
+        "How long have you been doing GTA RP?",
+        "Why do you want to join the DOJ?",
+        "What role are you applying for in DOJ?",
+        "What does fair roleplay mean to you?",
+        "Can you remain professional in court situations?",
+        "How active can you be weekly?",
+        "Why should we accept your application?"
+      ],
+      "resultChannelId": "1501905341246472315"
+    },
+    "ems": {
+      "label": "EMS Application",
+      "applicantRoleId": "1501905047531819080",
+      "acceptedRoleId": "1501905007656829038",
+      "reviewerRoleId": "1501904998139695154",
+      "reviewChannelId": "1501905419709452390",
+      "questions": [
+        "What is your in-city name?",
+        "What is your character backstory?",
+        "Do you have prior EMS/medical RP experience?",
+        "How long have you been doing GTA RP?",
+        "Why do you want to join EMS?",
+        "How would you handle a hostile patient?",
+        "What makes good medical RP?",
+        "Can you stay calm under pressure?",
+        "How active can you be weekly?",
+        "Why should we accept your application?"
+      ],
+      "resultChannelId": "1501905342903095328"
+    },
+    "pdm": {
+      "label": "PDM Application",
+      "applicantRoleId": "1501905049234833468",
+      "acceptedRoleId": "1501905008914989067",
+      "reviewerRoleId": "1501904999209242696",
+      "reviewChannelId": "1501905419709452390",
+      "questions": [
+        "What is your in-city name?",
+        "What is your character backstory?",
+        "Do you have prior business/dealership RP experience?",
+        "How long have you been doing GTA RP?",
+        "Why do you want to work at PDM?",
+        "How would you handle an angry customer?",
+        "What makes good dealership RP?",
+        "Can you remain professional while on duty?",
+        "How active can you be weekly?",
+        "Why should we hire you?"
+      ],
+      "resultChannelId": "1501905346338361426"
+    },
+    "streamer": {
+      "label": "Streamer Application",
+      "applicantRoleId": "1501905051017547828",
+      "acceptedRoleId": "1501904984634298389",
+      "reviewerRoleId": "1501904953999101952",
+      "reviewChannelId": "1501905424012677200",
+      "questions": [
+        "What is your in-city name?",
+        "What platforms do you stream on?",
+        "How long have you been creating content?",
+        "How long have you been doing GTA RP?",
+        "What type of RP content do you create?",
+        "Have you streamed RP servers before?",
+        "Can you follow server streaming rules?",
+        "How active are you as a streamer?",
+        "What can you bring to the community?",
+        "Why should we approve your streamer application?"
+      ],
+      "resultChannelId": "1501905348787703959"
+    },
+    "gang": {
+      "label": "Gang Application",
+      "applicantRoleId": "1501904963390148679",
+      "acceptedRoleId": "1501905010613813378",
+      "reviewerRoleId": "1501905000706867261",
+      "reviewChannelId": "1501905422691602592",
+      "questions": [
+        "What is your Gang Name?",
+        "What is your Gang Hood?",
+        "What is your Gang Colour?",
+        "Who is the Gang Leader? (Provide In-City Name & Discord)",
+        "Who is the Gang Co-Leader? (Provide In-City Name & Discord)",
+        "List 5 Gang Members (Provide In-City Name & Discord for each)"
+      ],
+      "resultChannelId": "1501905347730997319"
+    }
+  },
+  "banResultChannelId": "1501905411299872901"
+}
